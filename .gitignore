@@ -1,0 +1,11 @@
+/config/config.php
+phpunit.xml
+/vendor/
+/composer.phar
+/.idea
+/zeromq-4.1.2
+/zeromq-4.1.2.tar.gz
+/sandbox/temp/*
+!/sandbox/temp/.gitkeep
+/src/Spider/Test/temp/*
+!/src/Spider/Test/temp/.gitkeep

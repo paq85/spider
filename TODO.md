@@ -1,0 +1,5 @@
+- configurable ZeroMQ ports
+- StartCommand that runs it all (worker, collector, loader)
+- Use Logger (Monolog) in addition to printing to console
+- Error handling
+- Generic Task and Workers so extensions can be easily written
