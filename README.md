@@ -1,4 +1,4 @@
-# Scalable Web Spider (Crawler) in PHP [![Build Status](https://img.shields.io/travis/paq85/spider.svg)](https://travis-ci.org/Paq85/spider)
+# Scalable Web Spider (Crawler) in PHP [![Build Status](https://img.shields.io/travis/paq85/spider.svg)](https://travis-ci.org/paq85/spider)
 
 This application lets you scan the Web using many workers connected by [ZeroMQ](http://zguide.zeromq.org/).
 
