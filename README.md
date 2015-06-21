@@ -1,4 +1,4 @@
-# Scalable Web Spider (Crawler) by Damian Sromek
+# Scalable Web Spider (Crawler) in PHP [![Build Status](https://img.shields.io/travis/paq85/spider.svg)](https://travis-ci.org/paq85/spider)
 
 This application lets you scan the Web using many workers connected by [ZeroMQ](http://zguide.zeromq.org/).
 
@@ -23,3 +23,9 @@ It's using ZeroMQ's [Parallel Pipeline](http://zguide.zeromq.org/php:all#Divide-
 
 ## Plans
 See [TODO](TODO.md)
+
+## Authors
+[Damian Sromek](damian.sromek@gmail.com)
+
+## License
+Spider is licensed under the MIT License - see the LICENSE file for details
