@@ -1,10 +1,10 @@
 {
-  "name": "paq85/facebook_parser",
+  "name": "paq85/spider",
   "license": "MIT",
   "type": "project",
-  "description": "Facebook data parser",
+  "description": "Scalable Web Spider (Crawler)",
   "autoload": {
-    "psr-4": { "Paq\\FbParser\\": "src/FbParser/", "Paq\\Spider\\": "src/Spider/" }
+    "psr-4": { "Paq\\Spider\\": "src/Spider/" }
   },
   "require": {
     "php": ">=5.5.0",
